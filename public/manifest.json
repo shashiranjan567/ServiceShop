@@ -1,0 +1,17 @@
+{
+  "name": "SevaShop",
+  "short_name": "SevaShop",
+  "description": "Take your service business online",
+  "icons": [
+    {
+      "src": "/static/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone"
+}
